@@ -3,6 +3,7 @@
 
 
 **🌐 See the Live Application at:**
+[https://ai-viral-content-machine.vercel.app/](https://ai-viral-content-machine.vercel.app/)
 
 
 
